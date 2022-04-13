@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "microservices-eureka"
+		},
+		{
+			"path": "commons"
+		},
+		{
+			"path": "microservices-zuul"
+		},
+		{
+			"path": "commons-microservices"
+		},
+		{
+			"path": "microservices-cursos"
+		},
+		{
+			"path": "microservices-exams"
+		},
+		{
+			"path": "courses"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
